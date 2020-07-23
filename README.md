@@ -16,7 +16,7 @@ The repo contains three folders:
 
 ## Setup
 Open each library in ```Libraries``` in UiPath and publish the library as a package to a package source used in the process.
-
+In Orchestrator, create a queue named **Acme Queue** and credential named **acme-login** (names can be changed in ```Data\Config.xlsx```)
 
 ## Contributors
 Gauravdeep Gosal  
