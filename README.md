@@ -8,6 +8,9 @@ The repo contains three folders:
 - **Packages** contains *GetWorkflowDetailActivites* used as a dependency for many invoked workflows. This folder can be pointed to in UiPath's 'Manage Packages' option
 - **Process** contains the main UiPath process
 
+## Setup
+Open each library in ```Libraries/``` in UiPath and publish the library as a package to the folder of your choice. Ensure the folder you publish to is added as a dependency via 'Manage Packages' in the process.
+
 ## Collaborators
 Gauravdeep Gosal  
 Michael Tubbs
