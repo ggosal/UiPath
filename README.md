@@ -1,7 +1,13 @@
 # Intro
 ACME process built using new best practices.
 
-The process scrapes all work items and uploads to Orchestrator, then for each work item of type WI3 (or WI5 I can't remember) scrape the client details and use to generate a SHA code, then add this code to the comments of the work item in ACME and save the work item.
+- Scrape all work items from ACME
+- Upload all work items to Orchestrator
+- For each work item of type WI3 (or WI5 I can't remember):
+  - Scrape client details
+  - Use client details to generate an SHA code
+  - Open the work item's page and copy the code to the comments box of the work item
+  - Set the work item status to 'Complete' in ACME and save the update
 
 The repo contains three folders:
 - **Libraries** contains the ACME and SHA libraries built in UiPath
