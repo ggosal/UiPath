@@ -1,4 +1,18 @@
-Changes to the Robot Enterprise Framework:
+# Intro
+ACME process built using new best practices.
+
+The process scrapes all work items and uploads to Orchestrator, then for each work item of type WI3 (or WI5 I can't remember) scrape the client details and use to generate a SHA code, then add this code to the comments of the work item in ACME and save the work item.
+
+The repo contains three folders:
+- **Libraries** contains the ACME and SHA libraries built in UiPath
+- **Packages** contains *GetWorkflowDetailActivites* used as a dependency for many invoked workflows. This folder can be pointed to in UiPath's 'Manage Packages' option
+- **Process** contains the main UiPath process
+
+## Collaborators
+Gauravdeep Gosal
+Michael Tubbs
+
+## Changes to the Robot Enterprise Framework:
 
 - Added workflow for loading queue at start of process during initialization
 - Create case log csv file during initialization for local logging in addition to Orchestrator logging
@@ -12,7 +26,7 @@ Changes to the Robot Enterprise Framework:
 - Added check to see if robot should stop after reaching a maximum number of subsequent system errors in 'Finally' stage of 'Process Transaction'
 - Added GlobalHandler.xaml to log error and stop in case of unhandled error.
 
-Changes to previous best practices:
+## Changes to previous best practices:
 
 - Changed switch to decision when try/catching an invoked workflow
 - Rethrow exceptions in try/catch instead of capturing them then throwing them via a switch
