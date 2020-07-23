@@ -17,7 +17,8 @@ The repo contains three folders:
 ## Setup
 Open each library in ```Libraries``` in UiPath and publish the library as a package to a package source used in the process.
 
-## Collaborators
+
+## Contributors
 Gauravdeep Gosal  
 Michael Tubbs
 
