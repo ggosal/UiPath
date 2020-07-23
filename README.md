@@ -9,7 +9,7 @@ The repo contains three folders:
 - **Process** contains the main UiPath process
 
 ## Setup
-Open each library in ```Libraries/``` in UiPath and publish the library as a package to the folder of your choice. Ensure the folder you publish to is added as a dependency via 'Manage Packages' in the process.
+Open each library in ```Libraries``` in UiPath and publish the library as a package to the folder of your choice. Ensure the folder you publish to is added as a dependency via 'Manage Packages' in the process.
 
 ## Collaborators
 Gauravdeep Gosal  
