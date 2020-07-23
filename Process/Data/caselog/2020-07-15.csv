@@ -1,0 +1,91 @@
+﻿ID,Time Started,Time Ended,Time Worked,Status,Reason
+56176605,10:09:56,10:09:58,00:00:01,Business Exception,Invalid WID
+56176614,10:09:58,10:09:59,00:00:01,Business Exception,Invalid WID
+56176570,10:10:00,10:10:00,00:00:00,Business Exception,Invalid WID
+56176616,10:10:00,10:10:01,00:00:00,Business Exception,Invalid WID
+56176622,10:10:02,10:10:03,00:00:01,Business Exception,Invalid WID
+56176615,10:10:03,10:10:04,00:00:01,Business Exception,Invalid WID
+56176635,10:10:05,10:10:06,00:00:00,Business Exception,Invalid WID
+56176566,10:10:06,10:10:06,00:00:00,Business Exception,Invalid WID
+56176623,10:10:07,10:10:07,00:00:00,Business Exception,Invalid WID
+56176569,10:10:07,10:10:08,00:00:00,Business Exception,Invalid WID
+56176561,10:10:08,10:10:20,00:00:11,Success,
+56176631,10:10:20,10:10:21,00:00:00,Business Exception,Invalid WID
+56176564,10:10:21,10:10:35,00:00:14,Success,
+56176597,10:10:36,10:10:37,00:00:00,Business Exception,Invalid WID
+56176553,10:10:37,10:10:48,00:00:11,Success,
+56176554,10:10:48,10:11:01,00:00:12,Success,
+56176638,10:11:02,10:11:03,00:00:01,Business Exception,Invalid WID
+56176639,10:11:03,10:11:04,00:00:00,Business Exception,Invalid WID
+56176573,10:11:04,10:11:05,00:00:00,Business Exception,Invalid WID
+56176576,10:11:06,10:11:06,00:00:00,Business Exception,Invalid WID
+56176612,10:11:06,10:11:07,00:00:00,Business Exception,Invalid WID
+56176572,10:11:08,10:11:10,00:00:02,Business Exception,Invalid WID
+56176594,10:11:10,10:11:11,00:00:00,Business Exception,Invalid WID
+56176579,10:11:11,10:11:12,00:00:00,Business Exception,Invalid WID
+56176593,10:11:13,10:11:13,00:00:00,Business Exception,Invalid WID
+56176583,10:11:15,10:11:16,00:00:00,Business Exception,Invalid WID
+56176589,10:11:16,10:11:18,00:00:01,Business Exception,Invalid WID
+56176577,10:11:18,10:11:19,00:00:00,Business Exception,Invalid WID
+56176628,10:11:19,10:11:19,00:00:00,Business Exception,Invalid WID
+56176586,10:11:20,10:11:20,00:00:00,Business Exception,Invalid WID
+56176588,10:11:21,10:11:21,00:00:00,Business Exception,Invalid WID
+56176598,10:11:21,10:11:22,00:00:00,Business Exception,Invalid WID
+56176563,10:11:23,10:11:39,00:00:16,Success,
+56176617,10:11:39,10:11:40,00:00:00,Business Exception,Invalid WID
+56176557,10:11:40,10:11:52,00:00:11,Success,
+56176580,10:11:53,10:11:54,00:00:01,Business Exception,Invalid WID
+56176630,10:11:55,10:11:55,00:00:00,Business Exception,Invalid WID
+56176591,10:11:55,10:11:56,00:00:00,Business Exception,Invalid WID
+56176621,10:11:56,10:11:57,00:00:00,Business Exception,Invalid WID
+56176562,10:11:57,10:12:08,00:00:11,Success,
+56176600,10:12:09,10:12:09,00:00:00,Business Exception,Invalid WID
+56176627,10:12:10,10:12:10,00:00:00,Business Exception,Invalid WID
+56176575,10:12:11,10:12:11,00:00:00,Business Exception,Invalid WID
+56176559,10:12:11,10:12:23,00:00:11,Success,
+56176637,10:12:24,10:12:25,00:00:00,Business Exception,Invalid WID
+56176565,10:12:26,10:12:26,00:00:00,Business Exception,Invalid WID
+56176626,10:12:26,10:12:27,00:00:00,Business Exception,Invalid WID
+56176607,10:12:27,10:12:28,00:00:00,Business Exception,Invalid WID
+56176606,10:12:28,10:12:29,00:00:00,Business Exception,Invalid WID
+56176624,10:12:29,10:12:29,00:00:00,Business Exception,Invalid WID
+56176599,10:12:30,10:12:30,00:00:00,Business Exception,Invalid WID
+56176585,10:12:30,10:12:31,00:00:00,Business Exception,Invalid WID
+56176602,10:12:31,10:12:32,00:00:00,Business Exception,Invalid WID
+56176574,10:12:33,10:12:33,00:00:00,Business Exception,Invalid WID
+56176558,10:12:33,10:12:44,00:00:10,Success,
+56176581,10:12:45,10:12:46,00:00:00,Business Exception,Invalid WID
+56176642,10:12:46,10:12:47,00:00:00,Business Exception,Invalid WID
+56176578,10:12:47,10:12:48,00:00:00,Business Exception,Invalid WID
+56176641,10:12:48,10:12:48,00:00:00,Business Exception,Invalid WID
+56176571,10:12:49,10:12:50,00:00:01,Business Exception,Invalid WID
+56176595,10:12:50,10:12:51,00:00:00,Business Exception,Invalid WID
+56176613,10:12:51,10:12:51,00:00:00,Business Exception,Invalid WID
+56176618,10:12:52,10:12:53,00:00:01,Business Exception,Invalid WID
+56176611,10:12:53,10:12:54,00:00:00,Business Exception,Invalid WID
+56176567,10:12:54,10:12:55,00:00:00,Business Exception,Invalid WID
+56176629,10:12:55,10:12:56,00:00:01,Business Exception,Invalid WID
+56176560,10:12:56,10:13:10,00:00:13,Success,
+56176603,10:13:11,10:13:15,00:00:04,Business Exception,Invalid WID
+56176609,10:13:15,10:13:16,00:00:00,Business Exception,Invalid WID
+56176590,10:13:16,10:13:17,00:00:00,Business Exception,Invalid WID
+56176582,10:13:17,10:13:18,00:00:00,Business Exception,Invalid WID
+56176620,10:13:18,10:13:18,00:00:00,Business Exception,Invalid WID
+56176584,10:13:19,10:13:19,00:00:00,Business Exception,Invalid WID
+56176619,10:13:20,10:13:20,00:00:00,Business Exception,Invalid WID
+56176608,10:13:20,10:13:21,00:00:00,Business Exception,Invalid WID
+56176604,10:13:21,10:13:22,00:00:00,Business Exception,Invalid WID
+56176601,10:13:23,10:13:24,00:00:00,Business Exception,Invalid WID
+56176592,10:13:24,10:13:24,00:00:00,Business Exception,Invalid WID
+56176633,10:13:25,10:13:26,00:00:01,Business Exception,Invalid WID
+56176596,10:13:26,10:13:27,00:00:00,Business Exception,Invalid WID
+56176636,10:13:27,10:13:28,00:00:00,Business Exception,Invalid WID
+56176556,10:13:28,10:13:39,00:00:11,Success,
+56176555,10:13:40,10:13:51,00:00:11,Success,
+56176640,10:13:52,10:13:53,00:00:01,Business Exception,Invalid WID
+56176632,10:13:54,10:13:54,00:00:00,Business Exception,Invalid WID
+56176587,10:13:54,10:13:55,00:00:00,Business Exception,Invalid WID
+56176568,10:13:56,10:13:57,00:00:00,Business Exception,Invalid WID
+56176634,10:13:57,10:13:58,00:00:00,Business Exception,Invalid WID
+56176625,10:13:58,10:13:58,00:00:00,Business Exception,Invalid WID
+56176610,10:13:59,10:14:00,00:00:00,Business Exception,Invalid WID
