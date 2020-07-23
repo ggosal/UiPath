@@ -5,7 +5,7 @@ The process scrapes all work items and uploads to Orchestrator, then for each wo
 
 The repo contains three folders:
 - **Libraries** contains the ACME and SHA libraries built in UiPath
-- **Packages** contains *GetWorkflowDetailActivites* used as a dependency for many invoked workflows. This folder can be pointed to in UiPath's 'Manage Packages' option
+- **Packages** contains the *GetWorkflowDetailActivites* package used as a dependency for many invoked workflows. Either point to this folder in UiPath's 'Manage Packages' option, or copy *GetWorkflowDetailActivites.nupkg* to an existing package source
 - **Process** contains the main UiPath process
 
 ## Setup
