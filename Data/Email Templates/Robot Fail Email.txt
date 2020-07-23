@@ -1,8 +1,0 @@
-Hello
-
-The robot has failed with the following error:
-
-{0}
-
-Thanks,
-Roboty McRobotFace
